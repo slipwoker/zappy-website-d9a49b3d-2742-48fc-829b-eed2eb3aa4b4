@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+PickNgo connects thrift shoppers with on-demand delivery across North Carolina. Browse marketplace listings, buy local furniture, and get it delivered same-day.
+
+### Marketplace
+https://example.com/marketplace
+Discover curated marketplace listings from Goodwill, Habitat Restore, Facebook Marketplace, and Craigslist sellers. Secure escrow payments protect every purchase.
+
+### Delivery
+https://example.com/delivery
+Get superstore online shopping and delivery for your thrift finds. We transport items from Goodwill, Facebook Marketplace, or any local seller directly to your door.
+
+### Contact
+https://example.com/contact
+Need help with marketplace listings or delivery? Contact PickNgo for instant quotes on furniture transport and join our growing community of thrift enthusiasts.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
